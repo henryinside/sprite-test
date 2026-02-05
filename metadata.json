@@ -1,0 +1,5 @@
+{
+  "name": "Sprite Walker",
+  "description": "A 2D top-down walking simulator to test character sprites with movement mechanics.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,10 @@
+{
+  "short_name": "SpriteWalker",
+  "name": "Sprite Walker Game",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#064e3b",
+  "background_color": "#1a1a1a",
+  "orientation": "portrait"
+}
